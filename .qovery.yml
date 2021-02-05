@@ -1,0 +1,8 @@
+application:
+  name: httpbin
+  project: mysqlQoveryDeployDOUw7BGsRw
+  organization: QoveryCommunity
+databases:
+- type: mysql
+  version: 8.0
+  name: e2e-mysql
